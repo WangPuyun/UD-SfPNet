@@ -42,7 +42,7 @@ python train.py
 
 ### 3. Evaluate / Visualization
 
-You can directly use our [pretrained models]() for evaluation and visualization without retraining.
+You can directly use our [pretrained models](https://pan.baidu.com/s/1lGlVGrxEY10fhNw2EBwoxw?pwd=h9ab) for evaluation and visualization without retraining.
 
 To evaluate the surface normal maps and visualize the corresponding angular error, you can use the `Angle_error_map.py` script. This script performs two main tasks:
 
