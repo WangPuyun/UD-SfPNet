@@ -1,5 +1,5 @@
 # UD-SfPNet
-Repository for paper ["UD-SfPNet: An Underwater Descattering Shape-from-Polarization Network for 3D Normal Reconstruction"]()
+Repository for paper ["UD-SfPNet: An Underwater Descattering Shape-from-Polarization Network for 3D Normal Reconstruction"](https://arxiv.org/pdf/2603.00908)
 
 ---
 
@@ -74,5 +74,10 @@ We sincerely thank the authors for open-sourcing their code and making this rese
 
 If you find our work useful in your research, please consider citing:
 ```bibtex
-
+@article{wang2026ud,
+  title={UD-SfPNet: An Underwater Descattering Shape-from-Polarization Network for 3D Normal Reconstruction},
+  author={Wang, Puyun and Yu, Kaimin and He, Huayang and Huang, Feng and Wu, Xianyu and Chen, Yating},
+  journal={arXiv preprint arXiv:2603.00908},
+  year={2026}
+}
 ```
